@@ -6,6 +6,8 @@ Nour-Eddine : We will need an horizontally scaled data storage with hadoop Spark
 
 2)What business constraint should the architecture meet to fulfill the requirement describe in the paragraph "Alert"? Which component to choose?
 
+yakout : While updating a citizen statut, the business constraint that the architecture should fulfill  is that it must be blocked and inaccessible to have only correct and up-to-date data while updating the citizen’s data.
+
 
 3)What mistake(s) from Peaceland can explain the failed attempt?
 Hadi : With the number of drones operating, there are regular failures of drones, actually daily failure of drones. As 

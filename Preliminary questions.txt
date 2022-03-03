@@ -1,1 +1,15 @@
-Preliminary questions1)What technical/business constraints should the data storage component of theprogram architecture meet to fulfill the requirement described by the customer inparagraph «Statistics»?So what kind of component(s) (listed in the lecture) will the architecture need?2)What business constraint should the architecture meet to fulfill the requirementdescribe in the paragraph «Alert»? Which component to choose?3)What mistake(s) from Peaceland can explain the failed attempt?4)Peaceland has likely forgotten some technical information in the report sent by thedrone. In the future, this information could help Peaceland make its peacewatchersmuch more efficient. Which information?
+Preliminary questions
+
+1)What technical/business constraints should the data storage component of the program architecture meet to fulfill the requirement described by the customer in paragraph "Statistics" ?So what kind of component(s) (listed in the lecture) will the architecture need?
+
+Nour-Eddine : We will need an horizontally scaled data storage with hadoop Spark to be able to manage these 200Gb
+
+2)What business constraint should the architecture meet to fulfill the requirement describe in the paragraph "Alert"? Which component to choose?
+
+
+3)What mistake(s) from Peaceland can explain the failed attempt?
+
+
+
+4)Peaceland has likely forgotten some technical information in the report sent by thedrone. In the future, this information could help Peaceland make its peacewatchersmuch more efficient. Which information?
+
